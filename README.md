@@ -21,6 +21,9 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 - [Tutorials](#tutorials)
 - [Models and Examples](#models-and-examples)
 - [Papers](#papers)
+  - [Foundations and Methodology](#foundations-and-methodology)
+  - [Tools and Verification](#tools-and-verification)
+  - [Applications and Case Studies](#applications-and-case-studies)
 - [Standards](#standards)
 - [Conferences](#conferences)
 - [Community](#community)
@@ -129,11 +132,34 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 
 ## Papers
 
+### Foundations and Methodology
+
+- [Refinement, Decomposition, and Instantiation of Discrete Models](https://content.iospress.com/articles/fundamenta-informaticae/fi77-1-2-02) - Abrial and Hallerstede's foundational account of refinement, decomposition, and generic instantiation in Event-B.
+- [An Open Extensible Tool Environment for Event-B](https://link.springer.com/chapter/10.1007/11901433_32) - Early paper introducing the extensible Event-B tool environment that grew into the Rodin platform.
+- [On the Purpose of Event-B Proof Obligations](https://link.springer.com/article/10.1007/s00165-009-0138-3) - Hallerstede's explanation of how Event-B's proof obligations encode the method's semantics.
+- [Reasoning about Liveness Properties in Event-B](https://link.springer.com/chapter/10.1007/978-3-642-24559-6_31) - Hoang and Abrial's proof rules for liveness properties under Event-B refinement.
+- [Decomposition Structures for Event-B](https://link.springer.com/chapter/10.1007/978-3-642-00255-7_2) - Butler's atomicity decomposition and event-refinement diagrams for structuring large refinements.
+- [Practical Theory Extension in Event-B](https://link.springer.com/chapter/10.1007/978-3-642-39698-4_5) - Butler and Maamria on the Theory plug-in for extending Event-B's mathematical language.
+- [Faultless Systems: Yes We Can!](https://ieeexplore.ieee.org/document/5233504) - Abrial's manifesto arguing that proof-based development can deliver fault-free systems.
+- [Jean-Raymond Abrial: A Scientific Biography of a Formal Methods Pioneer](https://arxiv.org/abs/2604.07353) - Biography of the creator of Z, B, and Event-B.
+
+### Tools and Verification
+
 - [Rodin: an open toolset for modelling and reasoning in Event-B](https://link.springer.com/article/10.1007/s10009-010-0145-y) - Seminal paper describing the Rodin platform.
+- [ProB: A Model Checker for B](https://link.springer.com/chapter/10.1007/978-3-540-45236-2_46) - Leuschel and Butler's widely cited model checker and animator for B and Event-B.
+- [ProB: An Automated Analysis Toolset for the B Method](https://link.springer.com/article/10.1007/s10009-007-0063-9) - Journal account of the ProB toolset for animation, model checking, and refinement checking.
+- [Integrating SMT Solvers in Rodin](https://doi.org/10.1016/j.scico.2014.04.012) - Deharbe and colleagues on discharging Event-B proof obligations with SMT solvers.
+- [Automatic Code Generation from Event-B Models](https://inria.hal.science/inria-00637765) - Mery and Singh's EB2ALL approach to generating C, C++, Java, and C# from Event-B models.
+
+### Applications and Case Studies
+
 - [Applying a Formal Method in Industry: a 25-Year Trajectory](https://arxiv.org/abs/2005.07190) - Experience report on B and Event-B in industrial projects.
 - [Dependability-Explicit Engineering with Event-B](https://arxiv.org/abs/1210.7032) - Overview of achievements from the EU DEPLOY project.
-- [Security Policy Modeling and Verification](https://www.ispras.ru/publications/2018/security_policy_modeling_and_verification/) - ISP RAS work on Event-B modelling and verification of operating-system access-control policies.
-- [Jean-Raymond Abrial: A Scientific Biography of a Formal Methods Pioneer](https://arxiv.org/abs/2604.07353) - Biography of the creator of Z, B, and Event-B.
+- [An Incremental Development of the Mondex System in Event-B](https://link.springer.com/article/10.1007/s00165-007-0061-4) - Butler and Yadav's refinement-based development of the Mondex electronic purse, a verification benchmark.
+- [A Mechanically Proved and Incremental Development of IEEE 1394 Tree Identify Protocol](https://inria.hal.science/inria-00099531) - Abrial, Cansell, and Mery's proved development of the FireWire tree-identify protocol.
+- [Pacemaker's Functional Behaviors in Event-B](https://inria.hal.science/inria-00419973) - Mery and Singh's incremental Event-B model of a cardiac pacemaker's functional behaviour.
+- [Event-Based Formalization of ARINC 653 using Event-B](https://arxiv.org/abs/1508.06479) - Zhao and colleagues' formalisation of the ARINC 653 avionics OS standard (ISSRE 2015).
+- [Security Policy Modeling and Verification](https://www.ispras.ru/publications/2018/security_policy_modeling_and_verification/) - ISP RAS work on Event-B modelling of operating-system access-control policies.
 
 ## Standards
 

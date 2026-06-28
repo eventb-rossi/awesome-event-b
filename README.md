@@ -154,6 +154,7 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 - [Systerel](https://www.systerel.fr/en/) - Company leading Rodin platform development and formal verification services.
 - [ClearSy](https://www.clearsy.com/en/) - Engineering firm applying B and Event-B to railway safety systems.
 - [openETCS Model Evaluation](https://github.com/openETCS/model-evaluation) - Event-B models from the openETCS railway standardisation initiative.
+- [AstraVer Toolset](https://www.ispras.ru/en/projects/astraver_toolset/) - ISP RAS toolset that verifies Astra Linux security modules, pairing C deductive verification with Event-B security-policy models in Rodin.
 
 ## Related
 

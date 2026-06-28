@@ -94,14 +94,14 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 ## Books
 
 - [Modeling in Event-B: System and Software Engineering](https://www.cambridge.org/core/books/modeling-in-eventb/F39FF5F1B60F0AA585718B8E6A4F9DD7) - Jean-Raymond Abrial's definitive textbook on the method.
-- [System Modelling and Design Using Event-B](https://wiki.event-b.org/images/SM%26D-KAR.pdf) - Ken Robinson's free, book-length introductory notes on modelling with Event-B (PDF).
+- [System Modelling and Design Using Event-B](https://wiki.event-b.org/images/SM%26D-KAR.pdf) - Ken Robinson's free, book-length introductory notes on modelling with Event-B (PDF, [archived](https://web.archive.org/web/20260606061302/https://wiki.event-b.org/images/SM%26D-KAR.pdf)).
 - [Rodin Handbook](https://stups.hhu-hosting.de/handbook/rodin/current/html/) - Comprehensive guide to installing and using Rodin and Event-B.
 
 ## Cheat Sheets and Reference
 
-- [The Event-B Mathematical Language](https://web-archive.southampton.ac.uk/deploy-eprints.ecs.soton.ac.uk/11/4/kernel_lang.pdf) - Metayer and Voisin's formal definition of the Event-B kernel language (PDF).
-- [Event-B Mathematical Toolkit Summary](https://wiki.event-b.org/images/EventB-Summary.pdf) - Concise summary of the toolkit with both Rodin and ASCII notation (PDF).
-- [Event-B Reference Card](https://wiki.event-b.org/images/EventB-Summary-refcard.pdf) - Quick-reference card for Event-B notation and machine structure (PDF).
+- [The Event-B Mathematical Language](https://web-archive.southampton.ac.uk/deploy-eprints.ecs.soton.ac.uk/11/4/kernel_lang.pdf) - Metayer and Voisin's formal definition of the Event-B kernel language (PDF, [archived](https://web.archive.org/web/20220119135226/http://deploy-eprints.ecs.soton.ac.uk/11/4/kernel_lang.pdf)).
+- [Event-B Mathematical Toolkit Summary](https://wiki.event-b.org/images/EventB-Summary.pdf) - Concise summary of the toolkit with both Rodin and ASCII notation (PDF, [archived](https://web.archive.org/web/20260508084901/https://wiki.event-b.org/images/EventB-Summary.pdf)).
+- [Event-B Reference Card](https://wiki.event-b.org/images/EventB-Summary-refcard.pdf) - Quick-reference card for Event-B notation and machine structure (PDF, [archived](https://web.archive.org/web/20260508090649/https://wiki.event-b.org/images/EventB-Summary-refcard.pdf)).
 
 ## Tutorials
 

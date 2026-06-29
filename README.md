@@ -103,8 +103,6 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 ## Cheat Sheets and Reference
 
 - [The Event-B Mathematical Language](https://web-archive.southampton.ac.uk/deploy-eprints.ecs.soton.ac.uk/11/4/kernel_lang.pdf) - Metayer and Voisin's formal definition of the Event-B kernel language (PDF, [archived](https://web.archive.org/web/20220119135226/http://deploy-eprints.ecs.soton.ac.uk/11/4/kernel_lang.pdf)).
-- [The Logic of Event-B](https://www.research-collection.ethz.ch/handle/20.500.11850/69354) - Schmalz's specification of Event-B's abstract syntax, three-valued semantics, and proof calculus (ETH Technical Report 698; [PDF](https://www.research-collection.ethz.ch/server/api/core/bitstreams/099a52d8-f62c-4daf-9a44-7e3b2dc5940e/content)).
-- [Term Rewriting in Logics of Partial Functions](https://www.research-collection.ethz.ch/handle/20.500.11850/69779) - Schmalz's report on rewriting and well-definedness in the partial-function logic underlying Event-B proofs ([PDF](https://www.research-collection.ethz.ch/server/api/core/bitstreams/a3f9ab63-5f56-4c51-8566-d52b364508d9/content)).
 - [Event-B Mathematical Toolkit Summary](https://wiki.event-b.org/images/EventB-Summary.pdf) - Concise summary of the toolkit with both Rodin and ASCII notation (PDF, [archived](https://web.archive.org/web/20260508084901/https://wiki.event-b.org/images/EventB-Summary.pdf)).
 - [Event-B Reference Card](https://wiki.event-b.org/images/EventB-Summary-refcard.pdf) - Quick-reference card for Event-B notation and machine structure (PDF, [archived](https://web.archive.org/web/20260508090649/https://wiki.event-b.org/images/EventB-Summary-refcard.pdf)).
 
@@ -137,6 +135,8 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 - [Refinement, Decomposition, and Instantiation of Discrete Models](https://content.iospress.com/articles/fundamenta-informaticae/fi77-1-2-02) - Abrial and Hallerstede's foundational account of refinement, decomposition, and generic instantiation in Event-B.
 - [An Open Extensible Tool Environment for Event-B](https://link.springer.com/chapter/10.1007/11901433_32) - Early paper introducing the extensible Event-B tool environment that grew into the Rodin platform.
 - [On the Purpose of Event-B Proof Obligations](https://link.springer.com/article/10.1007/s00165-009-0138-3) - Hallerstede's explanation of how Event-B's proof obligations encode the method's semantics.
+- [The Logic of Event-B](https://www.research-collection.ethz.ch/handle/20.500.11850/69354) - Schmalz's specification of Event-B's abstract syntax, three-valued semantics, and proof calculus (ETH Technical Report 698).
+- [Term Rewriting in Logics of Partial Functions](https://www.research-collection.ethz.ch/handle/20.500.11850/69779) - Schmalz's report on rewriting and well-definedness in the partial-function logic underlying Event-B proofs.
 - [Reasoning about Liveness Properties in Event-B](https://link.springer.com/chapter/10.1007/978-3-642-24559-6_31) - Hoang and Abrial's proof rules for liveness properties under Event-B refinement.
 - [Decomposition Structures for Event-B](https://link.springer.com/chapter/10.1007/978-3-642-00255-7_2) - Butler's atomicity decomposition and event-refinement diagrams for structuring large refinements.
 - [Practical Theory Extension in Event-B](https://link.springer.com/chapter/10.1007/978-3-642-39698-4_5) - Butler and Maamria on the Theory plug-in for extending Event-B's mathematical language.

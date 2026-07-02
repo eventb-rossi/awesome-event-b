@@ -99,6 +99,7 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 - [Modeling in Event-B: System and Software Engineering](https://www.cambridge.org/core/books/modeling-in-eventb/F39FF5F1B60F0AA585718B8E6A4F9DD7) - Jean-Raymond Abrial's definitive textbook on the method.
 - [System Modelling and Design Using Event-B](https://wiki.event-b.org/images/SM%26D-KAR.pdf) - Ken Robinson's free, book-length introductory notes on modelling with Event-B (PDF, [archived](https://web.archive.org/web/20260606061302/https://wiki.event-b.org/images/SM%26D-KAR.pdf)).
 - [Rodin Handbook](https://stups.hhu-hosting.de/handbook/rodin/current/html/) - Comprehensive guide to installing and using Rodin and Event-B.
+- [A Tool's Security Model: Formally Describing Software Subsystems](https://books.ifmo.ru/file/pdf/3025.pdf) - Begaev and colleagues' Russian-language ITMO University study guide on building a software security model in Event-B with iUML-B and Rodin for FSTEC certification (PDF, [archived](https://web.archive.org/web/20220429054626/https://books.ifmo.ru/file/pdf/3025.pdf)).
 
 ## Cheat Sheets and Reference
 

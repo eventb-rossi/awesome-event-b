@@ -164,6 +164,11 @@ Event-B is a formal method for system-level modelling and analysis. It uses set 
 
 ## Standards
 
+- [CENELEC EN 50128:2011+A2:2020](https://landingpage.bsigroup.com/LandingPage/Standard?UPI=000000000030415465) - European railway-software standard whose informative Annex D.28.9 describes Event B as the system-modelling branch of the B method. The [current successor, EN 50716:2023](https://www.nek.no/wp-content/uploads/2025/03/nek-en-50716_2023_en_001.pdf), retains the B method.
+- [IEC 62279:2015](https://webstore.iec.ch/en/publication/22781) - International counterpart to EN 50128; informative Annex D.28.9 contains the same explicit description of Event B.
+- [GOST R IEC 62279-2016](https://protect.gost.ru/gost/details/639bf6b0-c641-4845-a717-97638cb7e40b) - Active, identical Russian adoption of IEC 62279:2015 for railway software. Its [Annex D.28.10](https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/14/gost_r_mek_62279-2016_natsionalnyy_standart_rossiyskoy.html) explicitly describes Event-B as “Событие B”.
+- [GB/T 28808-2021](https://std.samr.gov.cn/gb/search/gbDetailed?id=D4BEFFF4EA39B241E05397BE0A0AF581) - Current Chinese railway-software standard and modified adoption of IEC 62279:2015. Its informative Annex B corresponds to IEC Annex D, including the Event B description.
+- [NITE Railway Accreditation Scope](https://www.nite.go.jp/data/000072146.pdf) - Japanese accreditation scope that includes IEC 62279:2015; an [IPA case-study report](https://www.ipa.go.jp/archive/files/000004620.pdf) separately documents Event-B and Rodin use in Japan.
 - [GOST R 59453.1-2021](https://protect.gost.ru/gost/details/3fa98ad7-e0ac-4f80-8fe2-5eebace2b3f7) - Russian national standard on the formal access-control model, general provisions.
 - [GOST R 59453.2-2021](https://base.garant.ru/401555448/) - Companion standard that recommends Event-B among formalization methods and Rodin as an example tool, with worked Event-B verification examples.
 
